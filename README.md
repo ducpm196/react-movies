@@ -1,5 +1,12 @@
 # Getting Started with Create React App
 
+npm uninstall react-router-dom
+npm install react-router-dom@5.2.0
+
+https://developers.themoviedb.org/3
+
+npm i react-router-dom axios query-string sass swiper@6.8.4 --save
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
